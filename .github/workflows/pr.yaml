@@ -13,4 +13,7 @@ jobs:
     steps:
       - name: welcome steps
         run: echo "welcome to github Actions" 
+      - name: second step
+        run: echo "welcome Actions" 
+
 
